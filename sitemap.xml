@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://cocallag.github.io/group/</loc>
-  <lastmod>2022-11-01T14:14:00Z</lastmod>
+  <lastmod>2022-11-01T17:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/group/archive.html</loc>
-  <lastmod>2022-11-01T14:14:00Z</lastmod>
+  <lastmod>2022-11-01T17:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/group/blog/</loc>
@@ -22,12 +22,28 @@
   <lastmod>2022-11-01T14:14:00Z</lastmod>
  </url>
  <url>
+  <loc>https://cocallag.github.io/group/contact/</loc>
+  <lastmod>2022-11-01T17:35:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://cocallag.github.io/group/galleries/</loc>
   <lastmod>2022-11-01T14:14:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/group/listings/</loc>
   <lastmod>2022-11-01T14:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/group/people/</loc>
+  <lastmod>2022-11-01T17:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/group/publications/</loc>
+  <lastmod>2022-11-01T17:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/group/research/</loc>
+  <lastmod>2022-11-01T17:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/group/start-page/</loc>
