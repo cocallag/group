@@ -1,4 +1,4 @@
-.. title: people
+.. title: People
 .. slug: people
 .. date: 2022-11-01 17:34:40 UTC
 .. tags: 
@@ -7,5 +7,13 @@
 .. description: 
 .. type: text
 
-Write your page here.
-list of people follows
+Group Members
+
+Lucy Davison
+Tom Hiron
+Marsha Wallace
+Sara Falcone
+Thomas Agbaedeng
+Jiahao Jiang
+Yash Malhotra
+Michael Reschen
