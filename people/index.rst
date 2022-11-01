@@ -1,4 +1,4 @@
-.. title: People
+.. title: People - Group Members
 .. slug: people
 .. date: 2022-11-01 17:34:40 UTC
 .. tags: 
@@ -6,9 +6,6 @@
 .. link: 
 .. description: 
 .. type: text
-
-Group Members
--------------
 
 Lucy Davison
 
