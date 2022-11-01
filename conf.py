@@ -140,11 +140,22 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/archive.html", "Archive"),
+#         ("/categories/", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+#     ),
+# }
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        #("../", "Home"),
+        ("/index.html", "Home"),
+        ("/research/", "Research"),
+        ("/people/index.html", "People"),
+        ("/publications/","Publications"),
+        ("/contact/", "Contact")
     ),
 }
 
@@ -156,7 +167,8 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+# THEME = "bootblog4"
+THEME = "bootstrap4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -801,7 +813,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized. (See also EXIF_WHITELIST)
-# PRESERVE_EXIF_DATA = False
+PRESERVE_EXIF_DATA = False
 
 # If you have enabled PRESERVE_EXIF_DATA, this option lets you choose EXIF
 # fields you want to keep in images. (See also PRESERVE_EXIF_DATA)
@@ -818,7 +830,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 # PRESERVE_EXIF_DATA is set to True
 # To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
 
-# EXIF_WHITELIST = {}
+EXIF_WHITELIST = {}
 
 # Some examples of EXIF_WHITELIST settings:
 
