@@ -1,0 +1,4 @@
+Sitemap: https://cocallag.github.io/group/sitemapindex.xml
+
+User-Agent: *
+Host: cocallag.github.io
