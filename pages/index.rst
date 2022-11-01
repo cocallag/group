@@ -7,7 +7,6 @@
 .. description: 
 .. type: text
 
-Write your page here. this is teh index page
 ==================
 Overview 010
 ==================

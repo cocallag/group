@@ -1,4 +1,4 @@
-.. title: research
+.. title: Research
 .. slug: research
 .. date: 2022-11-01 17:34:18 UTC
 .. tags: 
