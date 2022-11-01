@@ -8,12 +8,20 @@
 .. type: text
 
 Group Members
+-------------
 
 Lucy Davison
+
 Tom Hiron
+
 Marsha Wallace
+
 Sara Falcone
+
 Thomas Agbaedeng
+
 Jiahao Jiang
+
 Yash Malhotra
+
 Michael Reschen

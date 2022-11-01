@@ -1,4 +1,4 @@
-.. title: index
+.. title: Overview
 .. slug: index
 .. date: 2022-11-01 14:13:39 UTC
 .. tags: 
@@ -8,7 +8,7 @@
 .. type: text
 
 ==================
-Overview 010
+More information 010
 ==================
 We study the functional genomics of inflammatory metabolic disease with a particular interest in atherosclerois.
 
