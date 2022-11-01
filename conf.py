@@ -24,7 +24,7 @@ SITE_URL = "https://cocallag.github.io/group/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://cocallag.github.io/group/"
-BLOG_EMAIL = "chris.ocallagan@ndm.ox.ac.uk"
+BLOG_EMAIL = "chris.ocallagan (at) ndm.ox.ac.uk"
 BLOG_DESCRIPTION = "O'Callaghan Group website"  # (translatable)
 
 # Nikola is multilingual!

@@ -8,3 +8,16 @@
 .. type: text
 
 list of publications
+
+these are teh publications 
+listed here
+
+and here
+nad 
+
+here
+**bold**
+
+and 
+
+*italics*
