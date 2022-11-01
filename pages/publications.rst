@@ -12,12 +12,12 @@ Hirst JA, Taal MW, Fraser SD, Mena JMO, **O'Callaghan CA**, McManus RJ, Taylor C
 *Br J Gen Pract* 2022 72 (717) e261-e268 PMID:34990394 https://pubmed.ncbi.nlm.nih.gov/34990394/
  
 Impact of the COVID-19 pandemic on emergency department attendances and acute medical admissions.
-Reschen ME, Bowen J, Novak A, Giles M, Singh S, Lasserson D, **O'Callaghan CA**.
-*BMC Emerg Med* 2021 21 (1) 143 PMID:34800973 https://pubmed.ncbi.nlm.nih.gov/34800973/
+|Reschen ME, Bowen J, Novak A, Giles M, Singh S, Lasserson D, **O'Callaghan CA**.
+|*BMC Emerg Med* 2021 21 (1) 143 PMID:34800973 https://pubmed.ncbi.nlm.nih.gov/34800973/
  
 Frequency of Renal Monitoring - Creatinine and Cystatin C (FORM-2C): an observational cohort study of patients with reduced eGFR in primary care.
-Fleming S, Perera-Salazar R, Taylor KS, Jones L, Hobbs FR, James T, **O'Callaghan CA**, Shine B, Verbakel JY, Stevens R, Bankhead C.
-*Br J Gen Pract* 2021 71 (710) e677-e684 PMID:34048360 https://pubmed.ncbi.nlm.nih.gov/34048360/
+|Fleming S, Perera-Salazar R, Taylor KS, Jones L, Hobbs FR, James T, **O'Callaghan CA**, Shine B, Verbakel JY, Stevens R, Bankhead C.
+|*Br J Gen Pract* 2021 71 (710) e677-e684 PMID:34048360 https://pubmed.ncbi.nlm.nih.gov/34048360/
  
 Long-term monitoring in primary care for chronic kidney disease and chronic heart failure: a multi-method research programme
 Perera R, Stevens R, Aronson JK, Banerjee A, Evans J, Feakins BG, Fleming S, Glasziou P, Heneghan C, Hobbs FDR, Jones L, Kurtinecz M, Lasserson DS, Locock L, McLellan J, Mihaylova B, O’Callaghan CA, Oke JL, Pidduck N, Plüddemann A, Roberts N, Schlackow I, Shine B, Simons CL, Taylor CJ, Taylor KS, Verbakel JY, Bankhead C.
