@@ -6,6 +6,11 @@
 .. link: 
 .. description: 
 .. type: text
+.. #define a hard line break for HTML
+.. |br| raw:: html
+
+   <br />
+
 
 O'Callaghan Group |br| 
 Wellcome Centre for Human Genetics |br| 
