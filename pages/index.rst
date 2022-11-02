@@ -6,10 +6,12 @@
 .. link: 
 .. description: 
 .. type: text
+
 .. #define a hard line break for HTML
 .. |br| raw:: html
 
    <br />
+
 
 
 We study the functional genomics of inflammatory metabolic disease with a particular interest in atherosclerois. |br| 
