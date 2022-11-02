@@ -14,7 +14,7 @@ Oxford
 OX3 7BN
 UK
 
-Travel directions are 'here_'.
+Travel directions are here_.
 
 
 .. _here: https://www.well.ox.ac.uk/contact/find-us

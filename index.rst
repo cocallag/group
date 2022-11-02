@@ -15,7 +15,7 @@ We study the functional genomics of inflammatory metabolic disease with a partic
 
 Departmental website: https://www.ndm.ox.ac.uk/
 
-Our department is the 'NDM <https://www.ndm.ox.ac.uk/>'
+Our department is the NDM <https://www.ndm.ox.ac.uk/>
 
 
 
