@@ -13,11 +13,13 @@
    <br />
 
 
+
+ 
 Change in glomerular filtration rate over time in the Oxford Renal Cohort Study: observational study. |br| Hirst JA, Taal MW, Fraser SD, Mena JMO, **O'Callaghan CA**, McManus RJ, Taylor CJ, Yang Y, Ogburn E, Hobbs FR. |br| *Br J Gen Pract* 2022 72 (717) e261-e268 PMID:34990394 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34990394/>`__ 
  
 Impact of the COVID-19 pandemic on emergency department attendances and acute medical admissions. |br| Reschen ME, Bowen J, Novak A, Giles M, Singh S, Lasserson D, **O'Callaghan CA**. |br| *BMC Emerg Med* 2021 21 (1) 143 PMID:34800973 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34800973/>`__ 
  
-Long-term monitoring in primary care for chronic kidney disease and chronic heart failure: a multi-method research programme |br| Perera R, Stevens R, Aronson JK, Banerjee A, Evans J, Feakins BG, Fleming S, Glasziou P, Heneghan C, Hobbs FDR, Jones L, Kurtinecz M, Lasserson DS, Locock L, McLellan J, Mihaylova B, O’Callaghan CA, Oke JL, Pidduck N, Plüddemann A, Roberts N, Schlackow I, Shine B, Simons CL, Taylor CJ, Taylor KS, Verbakel JY, Bankhead C. |br| *NIHR Journals Library, Southampton (UK)* 2021 PMID:34469090 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34469090/>`__ 
+Long-term monitoring in primary care for chronic kidney disease and chronic heart failure: a multi-method research programme |br| Perera R, Stevens R, Aronson JK, Banerjee A, Evans J, Feakins BG, Fleming S, Glasziou P, Heneghan C, Hobbs FDR, Jones L, Kurtinecz M, Lasserson DS, Locock L, McLellan J, Mihaylova B, O’Callaghan CA, Oke JL, Pidduck N, Plüddemann A, Roberts N, Schlackow I, Shine B, Simons CL, Taylor CJ, Taylor KS, Verbakel JY, Bankhead C. |br| *NIHR Journals Library, Southampton (UK)* 2021  ()  PMID:34469090 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34469090/>`__ 
  
 Extracellular succinate hyperpolarizes M2 macrophages through SUCNR1/GPR91-mediated Gq signaling. |br| Trauelsen M, Hiron TK, Lin D, Petersen JE, Breton B, Husted AS, Hjorth SA, Inoue A, Frimurer TM, Bouvier M, **O'Callaghan CA**, Schwartz TW. |br| *Cell Rep* 2021 35 (11) 109246 PMID:34133934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34133934/>`__ 
  
@@ -29,9 +31,9 @@ Long-term health outcomes of people with reduced kidney function in the UK: A mo
  
 Process of care and activity in a clinically inclusive ambulatory emergency care unit: progressive effect over time on clinical outcomes and acute medical admissions. |br| Reschen ME, Bowen J, Singh S, Rajwani M, Giles M, Price J, Lasserson D, **O'Callaghan CA**. |br| *Future Healthc J* 2020 7 (3) 234-240 PMID:33094236 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/33094236/>`__ 
  
-Cytoplasmic Citrate Flux Modulates the Immune Stimulatory NKG2D Ligand MICA in Cancer Cells. |br| Møller SH, Mellergaard M, Madsen M, Bermejo AV, Jepsen SD, Hansen MH, Høgh RI, Aldana BI, Desler C, Rasmussen LJ, Sustarsic EG, Gerhart-Hines Z, Daskalaki E, Wheelock CE, Hiron TK, Lin D, **O'Callaghan CA**, Wandall HH, Andresen L, Skov S. |br| *Front Immunol* 2020 11 (else) 1968 PMID:32849657 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/32849657/>`__ 
+Cytoplasmic Citrate Flux Modulates the Immune Stimulatory NKG2D Ligand MICA in Cancer Cells. |br| Møller SH, Mellergaard M, Madsen M, Bermejo AV, Jepsen SD, Hansen MH, Høgh RI, Aldana BI, Desler C, Rasmussen LJ, Sustarsic EG, Gerhart-Hines Z, Daskalaki E, Wheelock CE, Hiron TK, Lin D, **O'Callaghan CA**, Wandall HH, Andresen L, Skov S. |br| *Front Immunol* 2020 11 () 1968 PMID:32849657 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/32849657/>`__ 
  
-Hierarchical Modular DNA Assembly Using MetClo. |br| Lin D, **O'Callaghan CA**. |br| *Methods Mol Biol* 2020 2205 (else) 143-159 PMID:32809198 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/32809198/>`__ 
+Hierarchical Modular DNA Assembly Using MetClo. |br| Lin D, **O'Callaghan CA**. |br| *Methods Mol Biol* 2020 2205 () 143-159 PMID:32809198 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/32809198/>`__ 
  
 Prevalence of chronic kidney disease in the community using data from OxRen: a UK population-based cohort study. |br| Hirst JA, Hill N, **O'Callaghan CA**, Lasserson D, McManus RJ, Ogburn E, Mena JMO, Shine B, Taylor CJ, Vazquez-Montes MD, Yang Y, Hobbs FR. |br| *Br J Gen Pract* 2020 70 (693) e285-e293 PMID:32041766 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/32041766/>`__ 
  
@@ -45,7 +47,7 @@ A genetics-led approach defines the drug target landscape of 30 immune-related t
  
 Trends in kidney function testing in UK primary care since the introduction of the quality and outcomes framework: a retrospective cohort study using CPRD. |br| Feakins B, Oke J, McFadden E, Aronson J, Lasserson D, **O'Callaghan C,** Taylor C, Hill N, Stevens R, Perera R. |br| *BMJ Open* 2019 9 (6) e028062 PMID:31196901 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/31196901/>`__ 
  
-A retrospective analysis of outcomes in low- and intermediate-high-risk pulmonary embolism patients managed on an ambulatory medical unit in the UK. |br| Reschen ME, Raby J, Bowen J, Singh S, Lasserson D, **O'Callaghan CA**. |br| *ERJ Open Res* 2019 5 (2)  PMID:30972349 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/30972349/>`__ 
+A retrospective analysis of outcomes in low- and intermediate-high-risk pulmonary embolism patients managed on an ambulatory medical unit in the UK. |br| Reschen ME, Raby J, Bowen J, Singh S, Lasserson D, **O'Callaghan CA**. |br| *ERJ Open Res* 2019 5 (2)  PMID:30972349 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/30972349/>`__ 
  
 Author Correction: Pathogen-derived HLA-E bound epitopes reveal broad primary anchor pocket tolerability and conformationally malleable peptide binding. |br| Walters LC, Harlos K, Brackenridge S, Rozbesky D, Barrett JR, Jain V, Walter TS, **O'Callaghan CA**, Borrow P, Toebes M, Hansen SG, Sacha JB, Abdulhaqq S, Greene JM, Früh K, Marshall E, Picker LJ, Jones EY, McMichael AJ, Gillespie GM. |br| *Nat Commun* 2018 9 (1) 4833 PMID:30420666 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/30420666/>`__ 
  
@@ -55,7 +57,7 @@ Pathogen-derived HLA-E bound epitopes reveal broad primary anchor pocket tolerab
  
 MetClo: methylase-assisted hierarchical DNA assembly using a single type IIS restriction enzyme. |br| Lin D, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2018 46 (19) e113 PMID:29986052 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/29986052/>`__ 
  
-Activation of the Immune-Metabolic Receptor GPR84 Enhances Inflammation and Phagocytosis in Macrophages. |br| Recio C, Lucy D, Purvis GSD, Iveson P, Zeboudj L, Iqbal AJ, Lin D, **O'Callaghan C,** Davison L, Griesbach E, Russell AJ, Wynne GM, Dib L, Monaco C, Greaves DR. |br| *Front Immunol* 2018 9 (else) 1419 PMID:29973940 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/29973940/>`__ 
+Activation of the Immune-Metabolic Receptor GPR84 Enhances Inflammation and Phagocytosis in Macrophages. |br| Recio C, Lucy D, Purvis GSD, Iveson P, Zeboudj L, Iqbal AJ, Lin D, **O'Callaghan C,** Davison L, Griesbach E, Russell AJ, Wynne GM, Dib L, Monaco C, Greaves DR. |br| *Front Immunol* 2018 9 () 1419 PMID:29973940 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/29973940/>`__ 
  
 Intragenic transcriptional interference regulates the human immune ligand MICA. |br| Lin D, Hiron TK, **O'Callaghan CA**. |br| *EMBO J* 2018 37 (10)  PMID:29643123 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/29643123/>`__ 
  
@@ -71,13 +73,13 @@ Requirement for cystatin C testing in chronic kidney disease: a retrospective po
  
 The Canine POMC Gene, Obesity in Labrador Retrievers and Susceptibility to Diabetes Mellitus. |br| Davison LJ, Holder A, Catchpole B, **O'Callaghan CA**. |br| *J Vet Intern Med* 2017 31 (2) 343-348 PMID:28176381 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/28176381/>`__ 
  
-MICA Expression Is Regulated by Cell Adhesion and Contact in a FAK/Src-Dependent Manner. |br| Moncayo G, Lin D, McCarthy MT, Watson AA, **O'Callaghan CA**. |br| *Front Immunol* 2016 7 (else) 687 PMID:28154561 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/28154561/>`__ 
+MICA Expression Is Regulated by Cell Adhesion and Contact in a FAK/Src-Dependent Manner. |br| Moncayo G, Lin D, McCarthy MT, Watson AA, **O'Callaghan CA**. |br| *Front Immunol* 2016 7 () 687 PMID:28154561 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/28154561/>`__ 
  
 Global Prevalence of Chronic Kidney Disease - A Systematic Review and Meta-Analysis. |br| Hill NR, Fatoba ST, Oke JL, Hirst JA, **O'Callaghan CA**, Lasserson DS, Hobbs FD. |br| *PLoS One* 2016 11 (7) e0158765 PMID:27383068 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/27383068/>`__ 
  
 What is the relationship between renal function and visit-to-visit blood pressure variability in primary care? Retrospective cohort study from routinely collected healthcare data. |br| Lasserson DS, Scherpbier de Haan N, de Grauw W, van der Wel M, Wetzels JF, **O'Callaghan CA**. |br| *BMJ Open* 2016 6 (6) e010702 PMID:27288374 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/27288374/>`__ 
  
-Genetic and environmental risk factors for atherosclerosis regulate transcription of phosphatase and actin regulating gene PHACTR1. |br| Reschen ME, Lin D, Chalisey A, Soilleux EJ, **O'Callaghan CA**. |br| *Atherosclerosis* 2016 250 (else) 95-105 PMID:27187934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/27187934/>`__ 
+Genetic and environmental risk factors for atherosclerosis regulate transcription of phosphatase and actin regulating gene PHACTR1. |br| Reschen ME, Lin D, Chalisey A, Soilleux EJ, **O'Callaghan CA**. |br| *Atherosclerosis* 2016 250 () 95-105 PMID:27187934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/27187934/>`__ 
  
 Biology-The Path Ahead. |br| **O'Callaghan CA**. |br| *Biology (Basel)* 2011 1 (1) 1-4 PMID:26791675 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/26791675/>`__ 
  
@@ -95,7 +97,7 @@ PeaKDEck: a kernel density estimator-based peak calling program for DNaseI-seq d
  
 The Oxford Renal (OxRen) cross-sectional study of chronic kidney disease in the UK. |br| Hill NR, Lasserson D, Fatoba S, **O'Callaghan CA**, Pugh C, Perera-Salazar R, Shine B, Thompson B, Wolstenholme J, McManus R, Hobbs FD. |br| *BMJ Open* 2013 3 (12) e004265 PMID:24345903 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/24345903/>`__ 
  
-Solid-phase plate-reader quantification of specific PCR products by measurement of band-specific ethidium bromide fluorescence. |br| McCarthy MT, **O'Callaghan CA**. |br| *Anal Biochem* 2014 447 (else) 30-2 PMID:24239570 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/24239570/>`__ 
+Solid-phase plate-reader quantification of specific PCR products by measurement of band-specific ethidium bromide fluorescence. |br| McCarthy MT, **O'Callaghan CA**. |br| *Anal Biochem* 2014 447 () 30-2 PMID:24239570 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/24239570/>`__ 
  
 Impact on cardiovascular risk follow-up from a shift to the CKD-EPI formula for eGFR reporting: a cross-sectional population-based primary care study. |br| van Gelder VA, Scherpbier-de Haan ND, de Grauw WJ, **O'Callaghan CA**, Wetzels JF, Lasserson DS. |br| *BMJ Open* 2013 3 (9) e003631 PMID:24071463 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/24071463/>`__ 
  
@@ -205,7 +207,7 @@ Kupffer cell staining by an HFE-specific monoclonal antibody: implications for h
  
 Oligoclonal expansions of CD8(+) T cells in chronic HIV infection are antigen specific. |br| Wilson JD, Ogg GS, Allen RL, Goulder PJ, Kelleher A, Sewell AK, **O'Callaghan CA**, Rowland-Jones SL, Callan MF, McMichael AJ. |br| *J Exp Med* 1998 188 (4) 785-90 PMID:9705961 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/9705961/>`__ 
  
-Structure and function of the human MHC class Ib molecules HLA-E, HLA-F and HLA-G. |br| **O'Callaghan CA**, Bell JI. |br| *Immunol Rev* 1998 163 (else) 129-38 PMID:9700506 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/9700506/>`__ 
+Structure and function of the human MHC class Ib molecules HLA-E, HLA-F and HLA-G. |br| **O'Callaghan CA**, Bell JI. |br| *Immunol Rev* 1998 163 () 129-38 PMID:9700506 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/9700506/>`__ 
  
 Structural features impose tight peptide binding specificity in the nonclassical MHC molecule HLA-E. |br| **O'Callaghan CA**, Tormo J, Willcox BE, Braud VM, Jakobsen BK, Stuart DI, McMichael AJ, Bell JI, Jones EY. |br| *Mol Cell* 1998 1 (4) 531-41 PMID:9660937 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/9660937/>`__ 
  
@@ -246,3 +248,74 @@ Acute arsenic poisoning: absence of polyneuropathy after treatment with 2,3-dime
 Effective use of cyclosporin in sarcoidosis: a treatment strategy based on computed tomography scanning. |br| **O'Callaghan CA**, Wells AU, Lalvani A, Dhillon PD, Hansell DM, Mitchell DN. |br| *Eur Respir J* 1994 7 (12) 2255-6 PMID:7713214 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/7713214/>`__ 
  
 Handwashing and cohorting in prevention of hospital acquired infections with respiratory syncytial virus. |br| Isaacs D, Dickson H, **O'Callaghan C,** Sheaves R, Winter A, Moxon ER. |br| *Arch Dis Child* 1991 66 (2) 227-31 PMID:2001109 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/2001109/>`__ 
+ 
+Books
+-----
+
+Medicine for Finals and Beyond |br| 
+Editors: Axford JS and **O'Callaghan CA** |br| 
+Abingdon : CRC Press, Taylor and Francis Group |br| 
+First Edition 2023 `Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?isn=9781000471748>`__ ; `WorldCat record <https://www.worldcat.org/search?q=isbn%3A9781000471748>`__
+
+The Renal system at a Glance |br| 
+**O'Callaghan CA**  |br| 
+Fourth Edition 2017. Oxford: Wiley-Blackwell UK. |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?isn=9781118393864>`__ ; `WorldCat record <https://www.worldcat.org/title/944408823?oclcNum=944408823>`__ |br| 
+(Foreign translations include Chinese, Japanese, Spanish, Greek, Russian and Indonesian)
+
+The Renal system at a Glance |br| 
+**O'Callaghan CA**  |br| 
+Third Edition 2009. Oxford: Wiley-Blackwell UK. |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?&isn=9781405184724>`__ ; `WorldCat record <https://www.worldcat.org/search?q=isbn%3A9781405184724>`__
+
+The Renal system at a Glance |br| 
+**O'Callaghan CA**  |br| 
+Second Edition (of The Kidney at a Glance) 2006. Oxford: Wiley-Blackwell UK. |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?isn=9781405131360>`__ ; `WorldCat record <https://www.worldcat.org/search?q=isbn%3A9781405131360>`__
+
+
+The Kidney system at a Glance |br| 
+**O'Callaghan CA**  and Brenner BM |br|  
+First Edition 2000 Oxford: Blackwells Science UK and Boston, USA. |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?&isn=0632052066>`__ ; `WorldCat record <https://www.worldcat.org/title/718233762?oclcNum=718233762>`__
+
+
+The Oxford Dictionary of Biomedicine |br| 
+Editor: Lackie J; Advisory Editor: **O'Callaghan CA** |br| 
+Oxford University Press, 2010 |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?isn=9780199549351>`__ ; `WorldCat record <https://www.worldcat.org/search?q=isbn%3A9780199549351>`__
+
+Medicine. Second Edition |br| 
+Editors: Axford J and **O'Callaghan CA** |br| 
+Oxford : Blackwell Publications 2004  |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?isn=0632051620>`__ ; `WorldCat record <https://www.worldcat.org/search?q=isbn%3A0632051620>`__
+
+The MRCP part 1:a system based tutorial. |br| 
+**O'Callaghan CA** |br| 
+First Edition. 1997. Oxford:Blackwells Science UK. |br| 
+`Library Hub record <https://discover.libraryhub.jisc.ac.uk/search?isn=063204781X>`__ ; `WorldCat record <https://www.worldcat.org/title/39159359?oclcNum=39159359>`__
+
+
+Book Chapters
+-------------
+
+Royal College of Physicians MRCP Medical Masterclass: Nephrology |br| 
+Fluck N, Kalra P, Maxwell P, **O'Callaghan CA** (ed. Maxwell P) |br| 
+First edition 2001 Royal College of Physicians Press and Blackwells Science |br| 
+Second edition 2008 |br| 
+
+Hypertension and Nephrology |br| 
+Hill P and **O'Callaghan CA** |br| 
+Chapter in 'An Insider's Guide to the Medical Specialties.' Editors: Reckless I and Reynolds J,  |br| 
+Oxford University Press 2006 
+
+Renal Medicine |br| 
+Chakera A, Herrington W and **O'Callaghan CA** |br| 
+Renal chapters in 'Oxford Diagnosis and Treatment in Internal Medicine' |br| 
+Editors: Davey P and Sprigings D, |br| 
+Oxford University Press, 2018  
+
+Renal Function |br| 
+**O'Callaghan CA** |br| 
+Chapter 9.1 pp 1027-1039 in 'The Oxford Textbook of Urological Surgery', Editor: F. Hamdy |br| 
+Oxford University Press 2018 
