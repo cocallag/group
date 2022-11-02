@@ -7,11 +7,11 @@
 .. description: 
 .. type: text
 
-O'Callaghan Group
-Wellcome Centre for Human Genetics
-Roosevelt Drive
-Oxford
-OX3 7BN
+O'Callaghan Group |br| 
+Wellcome Centre for Human Genetics |br| 
+Roosevelt Drive |br| 
+Oxford |br| 
+OX3 7BN |br| 
 UK
 
 Travel directions are here_.
