@@ -13,9 +13,12 @@
    <br />
 
 
-Change in glomerular filtration rate over time in the Oxford Renal Cohort Study: observational study. |br| Hirst JA, Taal MW, Fraser SD, Mena JMO, **O'Callaghan CA**, McManus RJ, Taylor CJ, Yang Y, Ogburn E, Hobbs FR. |br| Br J Gen Pract 2022 72 (717) e261-e268 PMID:34990394 https://pubmed.ncbi.nlm.nih.gov/34990394/
- 
-Impact of the COVID-19 pandemic on emergency department attendances and acute medical admissions. |br| Reschen ME, Bowen J, Novak A, Giles M, Singh S, Lasserson D, **O'Callaghan CA**. |br| BMC Emerg Med 2021 21 (1) 143 PMID:34800973 https://pubmed.ncbi.nlm.nih.gov/34800973/
+Change in glomerular filtration rate over time in the Oxford Renal Cohort Study: observational study. |br| Hirst JA, Taal MW, Fraser SD, Mena JMO, **O'Callaghan CA**, McManus RJ, Taylor CJ, Yang Y, Ogburn E, Hobbs FR. |br| Br J Gen Pract 2022 72 (717) e261-e268 PMID:34990394 https://pubmed.ncbi.nlm.nih.gov/34990394/ 
+
+https://pubmed.ncbi.nlm.nih.gov/34990394/
+
+fdsakljdsa https://pubmed.ncbi.nlm.nih.gov/34990394/ jfkdla
+Impact of the COVID-19 pandemic on emergency department attendances and acute medical admissions. |br| Reschen ME, Bowen J, Novak A, Giles M, Singh S, Lasserson D, **O'Callaghan CA**. |br| BMC Emerg Med 2021 21 (1) 143 PMID:34800973 https://pubmed.ncbi.nlm.nih.gov/34800973/ 
  
 Frequency of Renal Monitoring - Creatinine and Cystatin C (FORM-2C): an observational cohort study of patients with reduced eGFR in primary care. |br| Fleming S, Perera-Salazar R, Taylor KS, Jones L, Hobbs FR, James T, **O'Callaghan CA**, Shine B, Verbakel JY, Stevens R, Bankhead C. |br| Br J Gen Pract 2021 71 (710) e677-e684 PMID:34048360 https://pubmed.ncbi.nlm.nih.gov/34048360/
  
