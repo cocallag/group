@@ -26,6 +26,8 @@ Sara Falcone
 
 Thomas Agbaedeng
 
+Nathali Flores
+
 Jiahao Jiang
 
 Yash Malhotra
