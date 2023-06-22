@@ -15,6 +15,13 @@
 
 
  
+ 
+Evaluation of a simple low-cost intervention to empower people with chronic kidney disease to reduce their dietary salt intake: OxCKD1, a multi-center randomized controlled trial. |br| **O'Callaghan CA**, Camidge C, Thomas R, Reschen ME, Maycock AJ, Lasserson DS, Fox RA, Thomas NPB, Shine B, James T. |br| *Kidney360* 2023  ()  PMID:37254243 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/37254243/>`__ 
+ 
+Quality of life in older adults with chronic kidney disease and transient changes in renal function: Findings from the Oxford Renal cohort. |br| Busa I, Ordóñez-Mena JM, Yang Y, Wolstenholme J, Petrou S, Taylor CJ, **O'Callaghan CA**, Fraser SDS, Taal MW, McManus RJ, Hirst JA, Hobbs FDR. |br| *PLoS One* 2022 17 (10) e0275572 PMID:36240168 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/36240168/>`__ 
+ 
+Statistical models for the deterioration of kidney function in a primary care population: A retrospective database analysis. |br| Oke JL, Feakins BG, Schlackow I, Mihaylova B, Simons C, **O'Callaghan CA**, Lasserson DS, Hobbs FDR, Stevens RJ, Perera R. |br| *F1000Res* 2019 8 () 1618 PMID:36225973 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/36225973/>`__ 
+ 
 Change in glomerular filtration rate over time in the Oxford Renal Cohort Study: observational study. |br| Hirst JA, Taal MW, Fraser SD, Mena JMO, **O'Callaghan CA**, McManus RJ, Taylor CJ, Yang Y, Ogburn E, Hobbs FR. |br| *Br J Gen Pract* 2022 72 (717) e261-e268 PMID:34990394 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34990394/>`__ 
  
 Impact of the COVID-19 pandemic on emergency department attendances and acute medical admissions. |br| Reschen ME, Bowen J, Novak A, Giles M, Singh S, Lasserson D, **O'Callaghan CA**. |br| *BMC Emerg Med* 2021 21 (1) 143 PMID:34800973 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/34800973/>`__ 
@@ -319,3 +326,4 @@ Renal Function |br|
 **O'Callaghan CA** |br| 
 Chapter 9.1 pp 1027-1039 in 'The Oxford Textbook of Urological Surgery', Editor: F. Hamdy |br| 
 Oxford University Press 2018 
+
