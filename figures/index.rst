@@ -1,5 +1,5 @@
-.. title: DNA Assembly
-.. slug: dna-assembly
+.. title: Figure Formatting
+.. slug: figures
 .. date: 2023-09-27 14:05:17 UTC+01:00
 .. tags: 
 .. category: 
