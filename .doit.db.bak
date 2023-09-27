@@ -48,7 +48,7 @@
 'render_posts:cache\\pages\\start-page.html', (40960, 362)
 'render_listings', (41472, 56)
 'render_listings:output\\listings\\index.html', (74240, 2324)
-'render_pages:output\\index.html', (93184, 5748)
+'render_pages:output\\index.html', (93184, 5747)
 'sitemap:output\\sitemapindex.xml', (49152, 257)
 'create_bundles:output\\assets\\css\\all.css', (49664, 931)
 'copy_assets:output\\assets\\css\\code.css', (50688, 141)
