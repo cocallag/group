@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-This page concerns DNA assembly. Relevant publications can be found on the publications page. 
+Publications can be found on the publications page. 
 
 Our laboratory is in the `Wellcome Centre for Human Genetics <http://www.well.ox.ac.uk>`_ and we 
 
@@ -27,7 +27,7 @@ and another one png below this here
     :class: with-border
     :target: /people/
 
-    A nice explanatory caption woudl be h elpful
+    An explanatory caption is helpful
 
 now in a row
 
@@ -57,5 +57,5 @@ and again
     :width: 30% 
     :class: align-right  
 
-and here is the end
+End of page
 

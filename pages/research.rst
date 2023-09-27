@@ -21,7 +21,11 @@ Our institutional webpages are `here <https://www.well.ox.ac.uk/research/researc
 
 
 
-try this `link address word </contact/>`_
+try this `link to contact page </contact/>`_
 
 
-try this `lDNA Assembly ink address word </dna-assembly/>`_ adn then more text
+try this `Some figures and formatting <figures>`_ and then more text
+
+a link to another page people_
+
+.. _people: /people/
