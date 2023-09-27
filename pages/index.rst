@@ -19,5 +19,9 @@ Our laboratory is in the `Wellcome Centre for Human Genetics <http://www.well.ox
 
 Our institutional webpages are `here <https://www.well.ox.ac.uk/research/research-groups/ocallaghan-group-1>`_ . 
 
+a link to another page people_
+
+.. _people: people
+
 
 
