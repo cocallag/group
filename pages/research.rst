@@ -24,7 +24,7 @@ Our institutional webpages are `here <https://www.well.ox.ac.uk/research/researc
 try this `link to contact page </contact/>`_
 
 
-try this `Some figures and formatting <figures>`_ and then more text
+try this `Some figures and formatting </figures/>`_ and then more text
 
 a link to another page people_
 
