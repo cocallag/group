@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Publications can be found on the publications page. 
+This is a trial page testing figure formates. 
 
 Our laboratory is in the `Wellcome Centre for Human Genetics <http://www.well.ox.ac.uk>`_ and we 
 
