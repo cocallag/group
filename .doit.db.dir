@@ -73,3 +73,4 @@
 'render_pages:output\\publications\\index.html', (104448, 5065)
 'render_sources:output\\publications\\index.rst', (109568, 253)
 'render_posts:cache\\pages\\people.html', (110080, 351)
+'copy_files:output\\favicon.ico', (110592, 239)
