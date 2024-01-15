@@ -18,4 +18,9 @@ Partitioning heritability using single-cell multi-omics identifies a novel macro
 
 *Dexi* disruption depletes gut microbial metabolites and accelerates autoimmune diabetes. |br| Davison LJ, Wallace MD, Preece C, Hughes K, Todd JA, Davies B, **O'Callaghan CA**. |br| *bioRxiv* 2018; 393421 `DOI link <https://doi.org/10.1101/393421>`__ 
 
+In Press
+========
+
+DNA methylases for site-selective inhibition of type IIS restriction enzyme activity. |br| Flores-Fernandez CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Applied Microbiology and Biotechnology* 2024; 
+
 Return to  `main publication listing </publications/>`_  |br|
