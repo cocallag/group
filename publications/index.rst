@@ -14,7 +14,13 @@
 
 
 
-Click `here </preprints/>`_ for recent preprints |br| |br| Evaluation of a Simple Low-cost Intervention to Empower People with CKD to Reduce Their Dietary Salt Intake: OxCKD1, a Multicenter Randomized Controlled Trial. |br| **O'Callaghan CA**, Camidge C, Thomas R, Reschen ME, Maycock AJ, Lasserson DS, Fox RA, Thomas NPB, Shine B, James T. |br| *Kidney360* 2023 4 (7) 890-898 PMID:37254243 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/37254243/>`__ 
+Click `here </preprints/>`_ for recent preprints |br| |br| 
+
+
+ 
+DNA methylases for site-selective inhibition of type IIS restriction enzyme activity. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2024 108 (1) 174 PMID:38270650 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38270650/>`__ 
+ 
+Evaluation of a Simple Low-cost Intervention to Empower People with CKD to Reduce Their Dietary Salt Intake: OxCKD1, a Multicenter Randomized Controlled Trial. |br| **O'Callaghan CA**, Camidge C, Thomas R, Reschen ME, Maycock AJ, Lasserson DS, Fox RA, Thomas NPB, Shine B, James T. |br| *Kidney360* 2023 4 (7) 890-898 PMID:37254243 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/37254243/>`__ 
  
 Quality of life in older adults with chronic kidney disease and transient changes in renal function: Findings from the Oxford Renal cohort. |br| Busa I, Ordóñez-Mena JM, Yang Y, Wolstenholme J, Petrou S, Taylor CJ, **O'Callaghan CA**, Fraser SDS, Taal MW, McManus RJ, Hirst JA, Hobbs FDR. |br| *PLoS One* 2022 17 (10) e0275572 PMID:36240168 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/36240168/>`__ 
  
@@ -324,5 +330,3 @@ Renal Function |br|
 **O'Callaghan CA** |br| 
 Chapter 9.1 pp 1027-1039 in 'The Oxford Textbook of Urological Surgery', Editor: F. Hamdy |br| 
 Oxford University Press 2018 
-
-
