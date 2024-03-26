@@ -21,6 +21,6 @@ Partitioning heritability using single-cell multi-omics identifies a novel macro
 In Press
 ========
 
-DNA methylases for site-selective inhibition of type IIS restriction enzyme activity. |br| Flores-Fernandez CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Applied Microbiology and Biotechnology* 2024; 
+Dietary salt intake in chronic kidney disease. Recent studies and their practical implications. |br| **O'Callaghan CA**. |br| *Polish Archives of Internal Medicine* 2024; 
 
 Return to  `main publication listing </publications/>`_  |br|
