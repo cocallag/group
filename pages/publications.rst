@@ -18,6 +18,12 @@ Click `here </preprints/>`_ for articles in press and recent preprints |br| |br|
 
 
  
+
+ 
+A Novel Macrophage Subpopulation Conveys Increased Genetic Risk of Coronary Artery Disease. |br| Jiang J, Hiron TK, Agbaedeng TA, Malhotra Y, Drydale E, Bancroft J, Ng E, Reschen ME, Davison LJ, **O'Callaghan CA**. |br| *Circ Res* 2024 135 (1) 6-25 PMID:38747151 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38747151/>`__ 
+ 
+Dietary salt intake in chronic kidney disease: recent studies and their practical implications. |br| **O'Callaghan CA**. |br| *Pol Arch Intern Med* 2024 134 (5)  PMID:38546269 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38546269/>`__ 
+ 
 DNA methylases for site-selective inhibition of type IIS restriction enzyme activity. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2024 108 (1) 174 PMID:38270650 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38270650/>`__ 
  
 Evaluation of a Simple Low-cost Intervention to Empower People with CKD to Reduce Their Dietary Salt Intake: OxCKD1, a Multicenter Randomized Controlled Trial. |br| **O'Callaghan CA**, Camidge C, Thomas R, Reschen ME, Maycock AJ, Lasserson DS, Fox RA, Thomas NPB, Shine B, James T. |br| *Kidney360* 2023 4 (7) 890-898 PMID:37254243 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/37254243/>`__ 
@@ -310,16 +316,6 @@ First Edition. 1997. Oxford:Blackwells Science UK. |br|
 Book Chapters
 -------------
 
-Royal College of Physicians MRCP Medical Masterclass: Nephrology |br| 
-Fluck N, Kalra P, Maxwell P, **O'Callaghan CA** (ed. Maxwell P) |br| 
-First edition 2001 Royal College of Physicians Press and Blackwells Science |br| 
-Second edition 2008 |br| 
-
-Hypertension and Nephrology |br| 
-Hill P and **O'Callaghan CA** |br| 
-Chapter in 'An Insider's Guide to the Medical Specialties.' Editors: Reckless I and Reynolds J,  |br| 
-Oxford University Press 2006 
-
 Renal Medicine |br| 
 Chakera A, Herrington W and **O'Callaghan CA** |br| 
 Renal chapters in 'Oxford Diagnosis and Treatment in Internal Medicine' |br| 
@@ -330,3 +326,21 @@ Renal Function |br|
 **O'Callaghan CA** |br| 
 Chapter 9.1 pp 1027-1039 in 'The Oxford Textbook of Urological Surgery', Editor: F. Hamdy |br| 
 Oxford University Press 2018 
+
+Structure of Nonclassical MHC I (HLA-E, HLA-F, HLA-G, and Orthologs |br| 
+**O'Callaghan CA** |br| 
+Chapter in 'Encyclopedia of Immunobiology', Editor: M.J.H. Ratcliffe |br|
+Academic Press, Elsevier, Oxford 2016
+
+Royal College of Physicians MRCP Medical Masterclass: Nephrology |br| 
+Fluck N, Kalra P, Maxwell P, **O'Callaghan CA** (ed. Maxwell P) |br| 
+First edition 2001 Royal College of Physicians Press and Blackwells Science |br| 
+Second edition 2008 |br| 
+
+Hypertension and Nephrology |br| 
+Hill P and **O'Callaghan CA** |br| 
+Chapter in 'An Insider's Guide to the Medical Specialties.' Editors: Reckless I and Reynolds J,  |br| 
+Oxford University Press 2006 
+
+
+

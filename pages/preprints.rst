@@ -14,17 +14,14 @@
 
 
 
-A novel macrophage subpopulation conveying genetic risks of coronary artery disease. |br| Jiang Jiahao, Hiron Thomas K., Agbaedeng Thomas, Malhotra Yashaswat, Drydale Edward, Bancroft James, Ng Esther, Reschen Michael E., Davison Lucy J., **O'Callaghan Chris A.** |br| *Circulation Research* 2024; 
 
-Dietary salt intake in chronic kidney disease. Recent studies and their practical implications. |br| **O'Callaghan CA**. |br| *Polish Archives of Internal Medicine* 2024; 
 |br|
 |br|
 
 Recent Preprints
 ================
 
-Partitioning heritability using single-cell multi-omics identifies a novel macrophage subpopulation conveying genetic risks of coronary artery disease. |br| Jiang Jiahao, Hiron Thomas K., Agbaedeng Thomas, Malhotra Yashaswat, Drydale Edward, Bancroft James, Ng Esther, Reschen Michael E., Davison Lucy J., **O'Callaghan Chris A.** |br| *bioRxiv* 2023; 2023.09.14.557845 `DOI link <https://doi.org/10.1101/2023.09.14.557845>`__ 
 
-*Dexi* disruption depletes gut microbial metabolites and accelerates autoimmune diabetes. |br| Davison LJ, Wallace MD, Preece C, Hughes K, Todd JA, Davies B, **O'Callaghan CA**. |br| *bioRxiv* 2018; 393421 `DOI link <https://doi.org/10.1101/393421>`__ 
+.. *Dexi* disruption depletes gut microbial metabolites and accelerates autoimmune diabetes. |br| Davison LJ, Wallace MD, Preece C, Hughes K, Todd JA, Davies B, **O'Callaghan CA**. |br| *bioRxiv* 2018; 393421 `DOI link <https://doi.org/10.1101/393421>`__ 
 
 Return to  `main publication listing </publications/>`_  |br|

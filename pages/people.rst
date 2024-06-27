@@ -16,13 +16,7 @@
 
 Chris O'Callaghan 
 
-Lucy Davison
-
 Tom Hiron
-
-Marsha Wallace
-
-Sara Falcone
 
 Thomas Agbaedeng
 
