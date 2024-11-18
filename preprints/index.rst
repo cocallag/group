@@ -13,7 +13,7 @@
    <br />
 
 
-
+Integrating and defragmenting multi-specialty care for people with multiple long-term conditions. |br| **O'Callaghan CA**, Rayner JJ, Thanaglasingham G, Matheou M, Lumb A, Rea RD, Solomon L, Reschen ME |br| *British Journal of Hospital Medicine* 2024
 
 |br|
 |br|
