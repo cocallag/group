@@ -25,4 +25,4 @@ UK
 Travel directions are here_.
 
 
-.. _here: https://www.chg.ox.ac.uk/contact/find-us
+.. _here: https://www.chg.ox.ac.uk/contact
