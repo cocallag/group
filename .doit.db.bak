@@ -1,6 +1,6 @@
 'copy_assets:output\\assets\\js\\popper.min.js', (150016, 982)
 'post_render', (512, 56)
-'sitemap:output\\sitemap.xml', (138240, 2063)
+'sitemap:output\\sitemap.xml', (138240, 2064)
 'create_bundles:output\\assets\\css\\all-nocdn.css', (2560, 1080)
 'copy_assets:output\\assets\\xml\\atom.xsl', (164864, 929)
 'render_taxonomies:output\\rss.xml', (4608, 144)
