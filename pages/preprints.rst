@@ -17,7 +17,7 @@ Genetic influences on macrophage function and lipid uptake in atherosclerosis. |
 
 Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs. |br| **O'Callaghan CA**. |br| *Reference Module in Life Sciences* 2025; Elsevier, ISBN 978-0-12-809633-8 `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__
 
-Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernandez CN and **O'Callaghan CA** |br| *Applied Microbiology and Biotechnology* 2025 |br|
+Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernandez CN and **O'Callaghan CA** |br| *Applied Microbiology and Biotechnology* 2025 |br| `Read the article <https://rdcu.be/ecwuV>`__
 
 Integrating and defragmenting multi-specialty care for people with multiple long-term conditions. |br| **O'Callaghan CA**, Rayner JJ, Thanaglasingham G, Matheou M, Lumb A, Rea RD, Solomons L, Reschen ME |br| *British Journal of Hospital Medicine* 2025 |br|
 
