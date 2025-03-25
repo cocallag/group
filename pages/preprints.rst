@@ -24,6 +24,8 @@ Integrating and defragmenting multi-specialty care for people with multiple long
 Development and evaluation of an integrated multi-specialty clinic for people with multiple long-term conditions. |br|  Reschen ME, Rayner JJ, Thanaglasingham G, Lumb A, Matheou M, McGlen, Petousi N, Solomons L, Rea RD, **O'Callaghan CA**, |br| *Future Healthcare Journal* 2025 |br| `Read the article <https://authors.elsevier.com/sd/article/S2514-6645(25)00014-1>`__
 |br|
 
+Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-populations of insulin-expressing cancer cells. |br| Wallace MD, Herrtage ME, Gostelow L, Owen L, Rutherford L, Hughes K, Denyer A, Catchpole B, **O'Callaghan CA**, Davison LJ |br| *Veterinary Oncology* 2025 |br|
+
 Recent Preprints
 ================
 
