@@ -20,6 +20,8 @@ Click `here </preprints/>`_ for articles in press and recent preprints |br| |br|
  
 
  
+Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernández CN, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2025 109 (1) 60 PMID:40047928 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40047928/>`__ 
+
 A Novel Macrophage Subpopulation Conveys Increased Genetic Risk of Coronary Artery Disease. |br| Jiang J, Hiron TK, Agbaedeng TA, Malhotra Y, Drydale E, Bancroft J, Ng E, Reschen ME, Davison LJ, **O'Callaghan CA**. |br| *Circ Res* 2024 135 (1) 6-25 PMID:38747151 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38747151/>`__ 
  
 Dietary salt intake in chronic kidney disease: recent studies and their practical implications. |br| **O'Callaghan CA**. |br| *Pol Arch Intern Med* 2024 134 (5)  PMID:38546269 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38546269/>`__ 

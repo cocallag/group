@@ -17,14 +17,14 @@ Genetic influences on macrophage function and lipid uptake in atherosclerosis. |
 
 Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs. |br| **O'Callaghan CA**. |br| *Reference Module in Life Sciences* 2025; Elsevier, ISBN 978-0-12-809633-8 `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__
 
-Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernandez CN and **O'Callaghan CA** |br| *Applied Microbiology and Biotechnology* 2025 |br| `Read the article <https://rdcu.be/ecwuV>`__
-
 Integrating and defragmenting multi-specialty care for people with multiple long-term conditions. |br| **O'Callaghan CA**, Rayner JJ, Thanaglasingham G, Matheou M, Lumb A, Rea RD, Solomons L, Reschen ME |br| *British Journal of Hospital Medicine* 2025 |br|
 
 Development and evaluation of an integrated multi-specialty clinic for people with multiple long-term conditions. |br|  Reschen ME, Rayner JJ, Thanaglasingham G, Lumb A, Matheou M, McGlen, Petousi N, Solomons L, Rea RD, **O'Callaghan CA**, |br| *Future Healthcare Journal* 2025 |br| `Read the article <https://authors.elsevier.com/sd/article/S2514-6645(25)00014-1>`__
 |br|
 
 Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-populations of insulin-expressing cancer cells. |br| Wallace MD, Herrtage ME, Gostelow L, Owen L, Rutherford L, Hughes K, Denyer A, Catchpole B, **O'Callaghan CA**, Davison LJ |br| *Veterinary Oncology* 2025 |br|
+
+.. Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernandez CN and **O'Callaghan CA** |br| *Applied Microbiology and Biotechnology* 2025 |br| `Read the article <https://rdcu.be/ecwuV>`__
 
 Recent Preprints
 ================
