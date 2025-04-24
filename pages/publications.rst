@@ -17,8 +17,9 @@
 Click `here </preprints/>`_ for articles in press and recent preprints |br| |br| 
 
 
+Development and evaluation of an integrated multispecialty clinic for people with multiple long-term conditions. |br| Reschen ME, Rayner JJ, Thanabalasingham G, Lumb A, Matheou M, McGlen S, Petousi N, Solomons L, Rea RD, **O'Callaghan CA**. |br| *Future Healthc J* 2025 12 (2) 100235 PMID:40242005 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40242005/>`__ 
  
-
+Genetic influences on macrophage function and lipid uptake in atherosclerosis. |br| **O'Callaghan CA**, Jiang J. |br| *Curr Opin Lipidol* 2025  ()  PMID:40152781 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40152781/>`__ 
  
 Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernández CN, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2025 109 (1) 60 PMID:40047928 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40047928/>`__ 
 
