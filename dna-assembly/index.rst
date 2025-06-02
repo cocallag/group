@@ -20,6 +20,18 @@ We have recently been awarded a multi-million pound grant to develop this techno
 
 We are currently recruiting posts to contribute to this work, so please `get in touch </contact/>`_ if you are interested in getting involved. 
 
+Overview of Assembly
+---------------------
+.. figure:: /images/uniclo_simple.jpg
+    :align: center
+    :alt: eat less salt
+    :class: with-border
+    :target: /files/
+    :width: 80%
+    
+    
+Engineering methylation
+-------------------------
 .. figure:: /images/DNA_methylases_overview.jpg
     :align: center
     :alt: eat less salt
@@ -30,10 +42,12 @@ We are currently recruiting posts to contribute to this work, so please `get in 
 Publications
 -------------
 
+UniClo: Scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acid Research* 2025 *In Press* |br| `Journal <https://academic.oup.com/nar/>`__ 
+
 Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernández CN, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2025 109 (1) 60 PMID:40047928 |br| `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40047928/>`__ `PDF </documents/DNA_methylases_review.pdf>`__ 
 
 DNA methylases for site-selective inhibition of type IIS restriction enzyme activity. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2024 108 (1) 174 PMID:38270650 |br| `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38270650/>`__ `PDF </documents/DNA_methylases_article.pdf>`__ 
  
 Hierarchical Modular DNA Assembly Using MetClo. |br| Lin D, **O'Callaghan CA**. |br| *Methods Mol Biol* 2020 2205 () 143-159 PMID:32809198 |br| `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/32809198/>`__ `PDF </documents/MetClo_methods_article.pdf>`__ 
  
-MetClo: methylase-assisted hierarchical DNA assembly using a single type IIS restriction enzyme. |br| Lin D, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2018 46 (19) e113 PMID:29986052 |br| `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/29986052/>`__ `PDF </documents/MetClo_article.pdf>`__ 
+MetClo: methylase-assisted hierarchical DNA assembly using a single type IIS restriction enzyme. |br| Lin D, **O'Callaghan CA**. |br| *Nucleic Acids Research* 2018 46 (19) e113 PMID:29986052 |br| `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/29986052/>`__ `PDF </documents/MetClo_article.pdf>`__ 
