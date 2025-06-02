@@ -19,6 +19,8 @@ Integrating and defragmenting multi-specialty care for people with multiple long
 
 Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-populations of insulin-expressing cancer cells. |br| Wallace MD, Herrtage ME, Gostelow L, Owen L, Rutherford L, Hughes K, Denyer A, Catchpole B, **O'Callaghan CA**, Davison LJ |br| *Veterinary Oncology* 2025 |br|
 
+UniClo: Scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acid Research* 2025 *In Press* |br| `Journal <https://academic.oup.com/nar/>`__ 
+
 .. Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernandez CN and **O'Callaghan CA** |br| *Applied Microbiology and Biotechnology* 2025 |br| `Read the article <https://rdcu.be/ecwuV>`__
 
 Recent Preprints
