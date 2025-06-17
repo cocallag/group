@@ -21,7 +21,7 @@ Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-po
 
 UniClo: Scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acid Research* 2025 *In Press* |br| `Journal <https://academic.oup.com/nar/>`__ 
 
-Ox-LDL induces a non-inflammatory response enriched for coronary artery disease risk in human endothelial cells. |br| Jiang J, Hiron TK, Chalisey A, Malhotra Y Agbaedeng TA, Malhotra Y, **O'Callaghan CA**. |br| *Scientific Reports* 2025 *In Press* `Journal <https://www.nature.com/srep/>`__ |br|
+Ox-LDL induces a non-inflammatory response enriched for coronary artery disease risk in human endothelial cells. |br| Jiang J, Hiron TK, Chalisey A, Malhotra Y Agbaedeng TA, **O'Callaghan CA**. |br| *Scientific Reports* 2025 *In Press* `Journal <https://www.nature.com/srep/>`__ |br|
 
 
 .. Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernandez CN and **O'Callaghan CA** |br| *Applied Microbiology and Biotechnology* 2025 |br| `Read the article <https://rdcu.be/ecwuV>`__
