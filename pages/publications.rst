@@ -17,6 +17,10 @@
 Click `here </preprints/>`_ for articles in press and recent preprints |br| |br| 
 
 
+UniClo: scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2025 53 (12)  PMID:40548934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ 
+ 
+Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-populations of insulin-expressing cancer cells. |br| Wallace MD, Herrtage ME, Gostelow R, Owen L, Rutherford L, Hughes K, Denyer A, Catchpole B, **O'Callaghan CA**, Davison LJ. |br| *Vet Oncol* 2025 2 (1) 13 PMID:40438247 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40438247/>`__ 
+ 
 Development and evaluation of an integrated multispecialty clinic for people with multiple long-term conditions. |br| Reschen ME, Rayner JJ, Thanabalasingham G, Lumb A, Matheou M, McGlen S, Petousi N, Solomons L, Rea RD, **O'Callaghan CA**. |br| *Future Healthc J* 2025 12 (2) 100235 PMID:40242005 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40242005/>`__ 
  
 Genetic influences on macrophage function and lipid uptake in atherosclerosis. |br| **O'Callaghan CA**, Jiang J. |br| *Curr Opin Lipidol* 2025  ()  PMID:40152781 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40152781/>`__ 
