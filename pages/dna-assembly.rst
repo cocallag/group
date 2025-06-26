@@ -24,7 +24,7 @@ Overview of Assembly
 ---------------------
 .. figure:: /images/uniclo_simple.jpg
     :align: center
-    :alt: eat less salt
+    :alt: uniclo
     :class: with-border
     :target: /files/
     :width: 80%
@@ -34,7 +34,7 @@ Engineering methylation
 -------------------------
 .. figure:: /images/DNA_methylases_overview.jpg
     :align: center
-    :alt: eat less salt
+    :alt: methylases
     :class: with-border
     :target: /files/
     :width: 80%
