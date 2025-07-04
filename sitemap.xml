@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://cocallag.github.io/group/</loc>
-  <lastmod>2025-06-26T08:25:00Z</lastmod>
+  <lastmod>2025-07-04T16:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://cocallag.github.io/group/archive.html</loc>
@@ -60,5 +60,9 @@
  <url>
   <loc>https://cocallag.github.io/group/start-page/</loc>
   <lastmod>2025-06-26T08:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://cocallag.github.io/group/vacancies/</loc>
+  <lastmod>2025-07-04T16:42:00Z</lastmod>
  </url>
 </urlset>

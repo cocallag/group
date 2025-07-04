@@ -19,7 +19,6 @@ Our laboratory is in the `Centre for Human Genetics <http://www.chg.ox.ac.uk>`_ 
 
 Our institutional webpages are `here <https://www.chg.ox.ac.uk/research/research-groups/ocallaghan-group-1>`_ . 
 
-
-
+We currently have `two vacancies </vacancies/>`_ one for a research assistant and one for a postdoctoral research scientist. 
 
 

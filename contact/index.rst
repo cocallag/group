@@ -24,6 +24,7 @@ UK
 
 Travel directions are here_.
 
-chris.ocallaghan (at) ndm.ox.ac.uk
+Email: chris.ocallaghan (a) ndm.ox.ac.uk
+
 
 .. _here: https://www.chg.ox.ac.uk/contact
