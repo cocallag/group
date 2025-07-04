@@ -19,6 +19,8 @@ Click `here </preprints/>`_ for articles in press and recent preprints |br| |br|
 
 UniClo: scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2025 53 (12)  PMID:40548934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ 
  
+Ox-LDL induces a non-inflammatory response enriched for coronary artery disease risk in human endothelial cells. |br| Jiang J, Hiron TK, Chalisey A, Malhotra Y, Agbaedeng T, **O'Callaghan CA**. |br| *Sci Rep* 2025 15 (1) 21877 PMID:40593292 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40593292/>`__ 
+ 
 Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-populations of insulin-expressing cancer cells. |br| Wallace MD, Herrtage ME, Gostelow R, Owen L, Rutherford L, Hughes K, Denyer A, Catchpole B, **O'Callaghan CA**, Davison LJ. |br| *Vet Oncol* 2025 2 (1) 13 PMID:40438247 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40438247/>`__ 
  
 Development and evaluation of an integrated multispecialty clinic for people with multiple long-term conditions. |br| Reschen ME, Rayner JJ, Thanabalasingham G, Lumb A, Matheou M, McGlen S, Petousi N, Solomons L, Rea RD, **O'Callaghan CA**. |br| *Future Healthc J* 2025 12 (2) 100235 PMID:40242005 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40242005/>`__ 
@@ -322,6 +324,13 @@ First Edition. 1997. Oxford:Blackwells Science UK. |br|
 
 Book Chapters
 -------------
+
+Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs
+**O'Callaghan CA** |br| 
+Chapter in 'Encyclopedia of Immunobiology', Second Edition. Editor: M.J.H. Ratcliffe |br|
+Reference Module in Life Sciences `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__ |br|
+ISBN 978-0-12-809633-8
+Academic Press, Elsevier, Oxford 2024
 
 Renal Medicine |br| 
 Chakera A, Herrington W and **O'Callaghan CA** |br| 
