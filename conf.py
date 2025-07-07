@@ -155,6 +155,7 @@ NAVIGATION_LINKS = {
         ("/research/", "Research"),
         ("/people/index.html", "People"),
         ("/publications/","Publications"),
+        ("/vacancies/","Vacancies"),
         ("/contact/", "Contact")
     ),
 }
