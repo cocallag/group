@@ -18,6 +18,8 @@ We have been developing technology for DNA assembly for some years. You can revi
 
 We have recently been awarded a multi-million pound grant to develop this technology further and to apply it to the development of synthetic organelle genomes. We will create a fully synthetic chloropast geneome that uses only naturally occurring sequences to pool sequences with genetic variants that are predicted to convey beneficial properties to crop plants (potato and wheat). The poject is a collaborative project which aims not only to develop the technology, but to apply it to a real-world problem that can be translated rapidly into routine societal use. 
 
+Our key collaborators are `Professor Steve Kelly <https://www.biology.ox.ac.uk/people/steve-kelly>`__ and `Professor Francesco Licausi <https://www.biology.ox.ac.uk/people/francesco-licausi>`__ of the `Department of Biology <https://www.biology.ox.ac.uk/>`__ in Oxford. 
+
 We are currently recruiting posts to contribute to this work, so please `get in touch </contact/>`_ if you are interested in getting involved. 
 
 Overview of Assembly
