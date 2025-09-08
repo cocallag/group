@@ -18,6 +18,8 @@ Click `here </preprints/>`_ for articles in press and recent preprints |br| |br|
 
 
 UniClo: scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2025 53 (12)  PMID:40548934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ 
+
+Integrating and Defragmenting Multi-Specialty Care for People With Multiple Long-Term Conditions. |br| **O'Callaghan CA**, Rayner JJ, Thanabalasingham G, Matheou M, Lumb A, Rea RD, Solomons L, Reschen ME. |br| *Br J Hosp Med (Lond)* 2025 86 (8) 1-11 PMID:40847977 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40847977/>`__ 
  
 Ox-LDL induces a non-inflammatory response enriched for coronary artery disease risk in human endothelial cells. |br| Jiang J, Hiron TK, Chalisey A, Malhotra Y, Agbaedeng T, **O'Callaghan CA**. |br| *Sci Rep* 2025 15 (1) 21877 PMID:40593292 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40593292/>`__ 
  
