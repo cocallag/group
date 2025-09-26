@@ -1,4 +1,4 @@
-.. title: Current vacancies
+.. title: Current or recent vacancies
 .. slug: vacancies
 .. date: 2022-11-01 17:34:58 UTC
 .. tags: 
@@ -37,7 +37,7 @@ Please contact `Chris O'Callaghan <mailto:chris.ocallaghan@ndm.ox.ac.uk>`__ if y
 
 |br|
 |br|
-
+c
 
 
 .. _here: https://www.chg.ox.ac.uk/contact
