@@ -16,7 +16,7 @@
 
 We currently have two vacancies to work on DNA assembly to generate synthetic chloroplast genomes. 
 
-The closing date for applications is **4th August 2025.** 
+The closing date for applications was **4th August 2025.** 
 
 This is an exciting collaborative project with the aim of creating synthetic chloroplast genomes. We have been awarded a major new grant of around £6.7 million from the Advanced Research and Invention Agency (`ARIA <https://www.aria.org.uk/>`__) – a UK government funding agency. This grant is shared between three groups and covers a 3-year period. With our collaborators we aim to generate synthetic chloroplast genomes and test these in relevant crop plants including potato (*Solanum tuberosum*) and wheat (*Triticum aestivum*). The synthetic chloroplast genomes will include multiple naturally occurring variants which will convey desirable properties on crop plants such as increased yield, disease resistance and resilience to climate change. This project has huge potential for real societal benefit. 
 
