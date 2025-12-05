@@ -17,20 +17,23 @@
 Click `here </preprints/>`_ for articles in press and recent preprints |br| |br| 
 
 
-UniClo: scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2025 53 (12)  PMID:40548934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ 
 
-Integrating and Defragmenting Multi-Specialty Care for People With Multiple Long-Term Conditions. |br| **O'Callaghan CA**, Rayner JJ, Thanabalasingham G, Matheou M, Lumb A, Rea RD, Solomons L, Reschen ME. |br| *Br J Hosp Med (Lond)* 2025 86 (8) 1-11 PMID:40847977 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40847977/>`__ 
+UniClo: scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2025 53 (12)  PMID:40548934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ 
  
 Ox-LDL induces a non-inflammatory response enriched for coronary artery disease risk in human endothelial cells. |br| Jiang J, Hiron TK, Chalisey A, Malhotra Y, Agbaedeng T, **O'Callaghan CA**. |br| *Sci Rep* 2025 15 (1) 21877 PMID:40593292 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40593292/>`__ 
+ 
+Yield of Follow-up Chest X-rays for Infection-associated Changes in Same Day Emergency Care. |br| Emeje O, Alkaissy R, De Butts R, Rajwani M, **O'Callaghan CA**, Reschen ME. |br| *Acute Med* 2025 24 (1) 3-8 PMID:41104564 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/41104564/>`__ 
+ 
+Integrating and Defragmenting Multi-Specialty Care for People With Multiple Long-Term Conditions. |br| **O'Callaghan CA**, Rayner JJ, Thanabalasingham G, Matheou M, Lumb A, Rea RD, Solomons L, Reschen ME. |br| *Br J Hosp Med (Lond)* 2025 86 (8) 1-11 PMID:40847977 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40847977/>`__ 
  
 Single-cell transcriptomic analysis of canine insulinoma reveals distinct sub-populations of insulin-expressing cancer cells. |br| Wallace MD, Herrtage ME, Gostelow R, Owen L, Rutherford L, Hughes K, Denyer A, Catchpole B, **O'Callaghan CA**, Davison LJ. |br| *Vet Oncol* 2025 2 (1) 13 PMID:40438247 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40438247/>`__ 
  
 Development and evaluation of an integrated multispecialty clinic for people with multiple long-term conditions. |br| Reschen ME, Rayner JJ, Thanabalasingham G, Lumb A, Matheou M, McGlen S, Petousi N, Solomons L, Rea RD, **O'Callaghan CA**. |br| *Future Healthc J* 2025 12 (2) 100235 PMID:40242005 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40242005/>`__ 
  
-Genetic influences on macrophage function and lipid uptake in atherosclerosis. |br| **O'Callaghan CA**, Jiang J. |br| *Curr Opin Lipidol* 2025  ()  PMID:40152781 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40152781/>`__ 
+Genetic influences on macrophage function and lipid uptake in atherosclerosis. |br| **O'Callaghan CA**, Jiang J. |br| *Curr Opin Lipidol* 2025 36 (4) 185-190 PMID:40152781 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40152781/>`__ 
  
 Bacterial DNA methylases as novel molecular and synthetic biology tools: recent developments. |br| Flores-Fernández CN, **O'Callaghan CA**. |br| *Appl Microbiol Biotechnol* 2025 109 (1) 60 PMID:40047928 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40047928/>`__ 
-
+ 
 A Novel Macrophage Subpopulation Conveys Increased Genetic Risk of Coronary Artery Disease. |br| Jiang J, Hiron TK, Agbaedeng TA, Malhotra Y, Drydale E, Bancroft J, Ng E, Reschen ME, Davison LJ, **O'Callaghan CA**. |br| *Circ Res* 2024 135 (1) 6-25 PMID:38747151 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38747151/>`__ 
  
 Dietary salt intake in chronic kidney disease: recent studies and their practical implications. |br| **O'Callaghan CA**. |br| *Pol Arch Intern Med* 2024 134 (5)  PMID:38546269 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/38546269/>`__ 
@@ -330,7 +333,8 @@ Book Chapters
 Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs
 **O'Callaghan CA** |br| 
 Chapter in 'Encyclopedia of Immunobiology', Second Edition. Editor: M.J.H. Ratcliffe |br|
-Reference Module in Life Sciences `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__ |br|
+Reference Module in Life Sciences 
+`DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__  |br|
 ISBN 978-0-12-809633-8
 Academic Press, Elsevier, Oxford 2024
 
@@ -359,6 +363,8 @@ Hypertension and Nephrology |br|
 Hill P and **O'Callaghan CA** |br| 
 Chapter in 'An Insider's Guide to the Medical Specialties.' Editors: Reckless I and Reynolds J,  |br| 
 Oxford University Press 2006 
+
+
 
 
 

@@ -35,9 +35,6 @@ Job details
 
 Please contact `Chris O'Callaghan <mailto:chris.ocallaghan@ndm.ox.ac.uk>`__ if you would like to discuss these posts informally. 
 
+|br| 
 |br|
-|br|
-c
-
-
 .. _here: https://www.chg.ox.ac.uk/contact
