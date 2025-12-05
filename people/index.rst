@@ -22,6 +22,8 @@ Thomas Agbaedeng
 
 Nathali Flores
 
+Kinga Nytko
+
 Jiahao Jiang
 
 Yash Malhotra
