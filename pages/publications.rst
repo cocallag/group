@@ -16,7 +16,7 @@
 
 Click `here </preprints/>`_ for articles in press and recent preprints |br| |br| 
 
-Oxidized LDL Induces Pro-Inflammatory Transcriptomic and Epigenomic Responses in Human CD4+ T Cells hierarchical DNA assembly without sequence constraint. |br| Brown TA, Chalisey A, Jiang J, **O'Callaghan CA**. |br| *FASEB J* 2026 40 (4) e71571  PMID:41707046 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/41707046/>`__ 
+Oxidized LDL Induces Pro-Inflammatory Transcriptomic and Epigenomic Responses in Human CD4+ T Cells. |br| Brown TA, Chalisey A, Jiang J, **O'Callaghan CA**. |br| *FASEB J* 2026 40 (4) e71571  PMID:41707046 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/41707046/>`__ 
 
 UniClo: scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acids Res* 2025 53 (12)  PMID:40548934 `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ 
  
