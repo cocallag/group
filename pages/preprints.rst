@@ -15,6 +15,8 @@
 
 Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs. |br| **O'Callaghan CA**. |br| *Reference Module in Life Sciences* 2026; Elsevier, ISBN 978-0-12-809633-8 `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__ |br|
 
+UniClo technology exploits methylation for universal scarless DNA assembly. |br| Flores-Fernandez CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Biology Methods & Protocols* 2026; *In Press*  
+
 .. Outcome of follow-up chest X-rays for resolution of changes attributed to infection in acute ambulatory care. |br| Emeje O, Alkaissy R, De Butts R, Rajwani M, **O'Callaghan CA**, Reschen ME |br| *Acute Medicine* 2025 |br|
 
 
@@ -23,9 +25,8 @@ Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and
 Recent Preprints
 ================
 
-UniClo technology exploits methylation for universal scarless DNA assembly. |br| Flores-Fernandez CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Biology Methods & Protocols* 2026; *In Press*  
 
-Oxidized LDL induces pro-inflammatory transcriptomic and epigenomic responses in human CD4+ T cells. |br| Brown TA, Chalisey, A, Jiang J, **O'Callaghan CA**. |br| *FASEB Journal* 2026; *In Press* 
+
 
 .. *Dexi* disruption depletes gut microbial metabolites and accelerates autoimmune diabetes. |br| Davison LJ, Wallace MD, Preece C, Hughes K, Todd JA, Davies B, **O'Callaghan CA**. |br| *bioRxiv* 2018; 393421 `DOI link <https://doi.org/10.1101/393421>`__ 
 
