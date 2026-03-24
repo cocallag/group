@@ -15,7 +15,6 @@
 
 Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs. |br| **O'Callaghan CA**. |br| *Reference Module in Life Sciences* 2026; Elsevier, ISBN 978-0-12-809633-8 `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__ |br|
 
-UniClo technology exploits methylation for universal scarless DNA assembly. |br| Flores-Fernandez CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Biology Methods & Protocols* 2026; *In Press*  
 
 .. Outcome of follow-up chest X-rays for resolution of changes attributed to infection in acute ambulatory care. |br| Emeje O, Alkaissy R, De Butts R, Rajwani M, **O'Callaghan CA**, Reschen ME |br| *Acute Medicine* 2025 |br|
 
