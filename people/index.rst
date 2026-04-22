@@ -16,8 +16,6 @@
 
 Chris O'Callaghan 
 
-Tom Hiron
-
 Thomas Agbaedeng
 
 Nathali Flores
