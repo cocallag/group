@@ -43,6 +43,7 @@ Engineering methylation
 
 Publications
 -------------
+UniClo technology exploits methylation for universal scarless DNA assembly. |br| Flores-Fernandez CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Biology Methods & Protocols* 2026; 11 (1):bpag013 PMID:41858718 |br|  `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/41858718/>`__  `Article <https://academic.oup.com/biomethods/article/11/1/bpag013/8493204>`__  `PDF </documents/UniClo_bmp.pdf>`__
 
 UniClo: Scarless hierarchical DNA assembly without sequence constraint. |br| Flores-Fernández CN, Lin D, Robins K, **O'Callaghan CA**. |br| *Nucleic Acid Research* 2025 53 (12) gkaf548 PMID:40548934 |br| `Pubmed link <https://pubmed.ncbi.nlm.nih.gov/40548934/>`__ `Article <https://academic.oup.com/nar/article/doi/10.1093/nar/gkaf548/8171864?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email&guestAccessKey=d4b0c566-0f01-4a62-b909-b8098afc0a59>`__  `PDF </documents/UniClo.pdf>`__ 
 
