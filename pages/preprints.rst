@@ -15,6 +15,7 @@
 
 Structural Features of the Nonclassical MHC I Molecules HLA-E, HLA-F, HLA-G, and Orthologs. |br| **O'Callaghan CA**. |br| *Reference Module in Life Sciences* 2026; Elsevier, ISBN 978-0-12-809633-8 `DOI link <https://doi.org/10.1016/B978-0-128-24465-4.00115-0>`__ |br|
 
+Taxonomic and Functional Comparative Metagenomics of Pe-ruvian Salterns: Insights into Microbial Communities and Aminotransferase Potential |br| Flores-Fernández CN, Hiron TK, Dobrijevic, Zavaleta AI, Jeffries JEW, **O'Callaghan CA**, Lye GI, Ward JM, Cárdenas-Fernández M. |br| *Microorganisms* 2026 |br|
 
 .. Outcome of follow-up chest X-rays for resolution of changes attributed to infection in acute ambulatory care. |br| Emeje O, Alkaissy R, De Butts R, Rajwani M, **O'Callaghan CA**, Reschen ME |br| *Acute Medicine* 2025 |br|
 
