@@ -13,7 +13,7 @@
    <br />
 
 
-We do not have any vacancies at present.  
+We do not have any vacancies at present, but if you are interested in our work do contact us. 
 
 .. We currently have two vacancies to work on DNA assembly to generate synthetic chloroplast genomes. 
 
