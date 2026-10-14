@@ -20,7 +20,9 @@ We have recently been awarded a multi-million pound grant to develop this techno
 
 Our key collaborators are `Professor Steve Kelly <https://www.biology.ox.ac.uk/people/steve-kelly>`__ and `Professor Francesco Licausi <https://www.biology.ox.ac.uk/people/francesco-licausi>`__ of the `Department of Biology <https://www.biology.ox.ac.uk/>`__ in Oxford. 
 
-We are currently recruiting posts to contribute to this work, so please `get in touch </contact/>`_ if you are interested in getting involved. 
+We are currently recruiting for a `postdoctoral researcher </vacancies/>`_ to work on this project. 
+
+.. so please `get in touch </contact/>`_ if you are interested in getting involved. 
 
 Overview of Assembly
 ---------------------
